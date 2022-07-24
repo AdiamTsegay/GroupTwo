@@ -26,6 +26,7 @@ class MyCounter extends Component {
   render() {
     return (
       <div>
+      <h5>This is Rahel</h5>
         <button
           onClick={() => {
             this.allClicksCounter();
